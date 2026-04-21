@@ -21,3 +21,4 @@ Este es un proyecto de práctica enfocado en los fundamentos del desarrollo web,
 
 - **HTML5**
 - **CSS3**
+
